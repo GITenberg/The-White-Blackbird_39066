@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '39826'
     url: http://www.gutenberg.org/2009/agents/39826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39066#The-White-Blackbird
 gutenberg_issued: '2012-03-08'
 gutenberg_type: Text
 identifiers:
